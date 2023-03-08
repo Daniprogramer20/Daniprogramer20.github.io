@@ -1,0 +1,25 @@
+#Nombre{
+    margin: solid 2px;
+    border: solid 2px;
+    padding:  2px;
+    }
+    legend{
+
+        border: solid 1px;
+        border-radius: 15px;
+        background-color: aqua;
+    }
+
+        /**
+        tratando de centrar el titulo principal
+        */        
+        h1{ 
+            align-items: center ;
+            color: blue;
+        }
+
+        body {
+            background-color: rgb(0, 255, 115);
+
+        }
+    
